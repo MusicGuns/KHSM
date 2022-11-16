@@ -9,7 +9,7 @@ Admin can load questions from files (see `data` folder).
 App covered with views, models, controllers and features tests.
 
 ## Deployment
-https://khsm-app.herokuapp.com/
+https://khsm-webapp.herokuapp.com/
 
 ## Launching
 
